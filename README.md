@@ -3,7 +3,7 @@ A Python code which decides poker game winner among two players by comparing com
 
 This problem is solved taking into consideration this [exercise pdf](./Poker_Exercise.pdf). For complete information of problem exercise, refer [exercise pdf](./Poker_Exercise.pdf).
 
-## Usage
+# Usage
 
 ### Installing
 
@@ -11,7 +11,7 @@ In order to run this program, make sure that python is installed on your system.
 
 ### Folder structure
 
-Here's a folder structure :
+Here's the folder structure :
 
 ```
 Poker_Hand_Sorter/        # Directory which contains code files.
