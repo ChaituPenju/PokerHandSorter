@@ -23,8 +23,8 @@ Poker_Hand_Sorter/        # Directory which contains code files.
 ### How to Run?
 
 ```md
-# Open the Command Prompt or Terminal
-# in the directory -> 'Poker_Hand_Sorter'
+# Open the Command Prompt/Terminal
+# Run the commands in the directory -> 'Poker_Hand_Sorter'
 ```
 
 Use the below command to run this project:
@@ -44,12 +44,12 @@ python poker_hand_sorter.py poker-hands-test.txt
 
 ## Screenshot
 
-<img src="poker_hands_execution.png" width=800 height=200>
+<img src="poker_hands_execution.png" width=1000 height=250>
 
 ## Execution in Action
 
-<img src="phs_cmd.gif" width=800 height=400>
+<img src="phs_cmd.gif" width=1000 height=600 style="max-width: 120%">
 
 # License
 
-This project is licensed under [Apache License 2.0]('./LICENSE')
+This project is licensed under [Apache License 2.0](./LICENSE)
